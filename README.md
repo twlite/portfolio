@@ -1,3 +1,3 @@
 # Portfolio
 
-My personal website
+My personal website made with nextjs and tailwindcss
