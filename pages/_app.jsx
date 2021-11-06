@@ -1,4 +1,5 @@
 import "../styles/globals.css";
+import Head from "next/head";
 import { useEffect } from "react";
 
 function MyApp({ Component, pageProps }) {
@@ -8,7 +9,10 @@ function MyApp({ Component, pageProps }) {
 
         window.document.documentElement.setAttribute("data-theme", window.localStorage.getItem("theme") === "dark" ? "dracula" : "light");
     }, []);
-    return <Component {...pageProps} />;
+    return <Head>
+        <title>DevAndromeda</title>
+        <Component {...pageProps} />
+    </Head>;
 }
 
 export default MyApp;
