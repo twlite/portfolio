@@ -19,7 +19,7 @@ export const projects = [
     },
     {
         title: "Discord Player",
-        description: "🎧 Complete framework to simplify the implementation of music commands using discords.js",
+        description: "🎧 Complete framework to simplify the implementation of music commands using discord.js",
         source: "https://github.com/Androz2091/discord-player",
         website: "https://discord-player.js.org"
     },
