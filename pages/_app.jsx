@@ -9,10 +9,12 @@ function MyApp({ Component, pageProps }) {
 
         window.document.documentElement.setAttribute("data-theme", window.localStorage.getItem("theme") === "dark" ? "dracula" : "light");
     }, []);
-    return <Head>
-        <title>DevAndromeda</title>
+    return <>
+        <Head>
+            <title>DevAndromeda</title>
+        </Head>
         <Component {...pageProps} />
-    </Head>;
+    </>;
 }
 
 export default MyApp;
