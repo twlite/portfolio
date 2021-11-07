@@ -12,6 +12,7 @@ function MyApp({ Component, pageProps }) {
     return <>
         <Head>
             <title>DevAndromeda</title>
+            <link rel="shortcut icon" href="/icon.jpg" type="image/jpeg" />
         </Head>
         <Component {...pageProps} />
     </>;
