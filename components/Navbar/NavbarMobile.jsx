@@ -11,12 +11,6 @@ export default function NavbarMobile({ email }) {
                     <Link href="/projects">
                         <p className="btn btn-ghost btn-sm rounded-btn">Projects</p>
                     </Link>
-                    <Link href="https://github.com/DevAndromeda">
-                        <p className="btn btn-ghost btn-sm rounded-btn">GitHub</p>
-                    </Link>
-                    <Link href="https://twitter.com/DevAndromeda7">
-                        <p className="btn btn-ghost btn-sm rounded-btn">Twitter</p>
-                    </Link>
                     {email ? (
                         <Link href={`mailto:${email}`}>
                             <p className="btn btn-ghost btn-sm rounded-btn">Contact</p>
