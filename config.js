@@ -1,20 +1,26 @@
 export const projects = [
     {
+        title: "DateNP",
+        description: "Lightweight JavaScript library to convert Nepali and English dates",
+        source: "https://github.com/DevAndromeda/datenp",
+        website: "https://doc.deno.land/https://deno.land/x/datenp@0.1.1/mod.ts"
+    },
+    {
         title: "Canvacord",
         description: "Powerful image manipulation tool for beginners",
-        source: "https://github.com/DevSnowflake/canvacord",
+        source: "https://github.com/CesiumLabs/canvacord",
         website: "https://canvacord.js.org"
     },
     {
         title: "QuickMongo",
         description: "Quick mongodb wrapper for beginners",
-        source: "https://github.com/DevSnowflake/quickmongo",
+        source: "https://github.com/CesiumLabs/quickmongo",
         website: "https://quickmongo.js.org"
     },
     {
         title: "Yukitoki",
         description: "Customizable documentation rendering website written in Svelte",
-        source: "https://github.com/DevSnowflake/Yukitoki",
+        source: "https://github.com/CesiumLabs/Yukitoki",
         website: "https://docs.snowflakedev.org"
     },
     {
@@ -26,19 +32,19 @@ export const projects = [
     {
         title: "YouTube Search",
         description: "Simple package for Node & Deno to make YouTube search easily",
-        source: "https://github.com/DevSnowflake/youtube-sr",
+        source: "https://github.com/DevAndromeda/youtube-sr",
         website: "https://npmjs.com/package/youtube-sr"
     },
     {
         title: "Frost",
         description: "🚀 Static site generator",
-        source: "https://github.com/DevSnowflake/frost",
+        source: "https://github.com/CesiumLabs/frost",
         website: "https://frost.js.org"
     },
     {
         title: "SoundCloud Scraper",
         description: "☁️ Get basic information about a song from a SoundCloud URL",
-        source: "https://github.com/DevSnowflake/soundcloud-scraper",
+        source: "https://github.com/discord-player/soundcloud-scraper",
         website: "https://soundcloud-scraper.js.org"
     },
     {
