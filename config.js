@@ -48,12 +48,6 @@ export const projects = [
         website: "https://soundcloud-scraper.js.org"
     },
     {
-        title: "Scratch For Discord",
-        description: "🐱 Create your own Discord Bot easily using Scratch-styled blocks!",
-        source: "https://github.com/Androz2091/scratch-for-discord",
-        website: "https://scratch-for-discord.netlify.app"
-    },
-    {
         title: "Scratch For Discord - App",
         description: "Cross platform desktop app for Scratch For Discord",
         source: "https://github.com/scratch-for-discord/scratch-for-discord-app",
