@@ -1,6 +1,15 @@
 [
     {
         "id": 1,
+        "name": "Illustrator.js",
+        "image": "https://illustratorjs.netlify.app/img/logo.88cad7df.png",
+        "description": "JavaScript image processing library",
+        "tags": ["node", "photo", "image", "manipulation", "javascript", "api"],
+        "source_code": "https://github.com/CesiumLabs/illustrator.js",
+        "demo": "https://illustratorjs.netlify.app"
+    },
+    {
+        "id": 2,
         "name": "YouTube Search",
         "image": "https://i.imgur.com/FwUCnbF.png",
         "description": "Simple library for node and deno to make youtube search.",
@@ -9,7 +18,7 @@
         "demo": "https://devandromeda.github.io/youtube-sr"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Discord.tsx",
         "image": "https://i.imgur.com/7B8t8CR.png",
         "description": "Build discord.js components with JSX",
@@ -18,7 +27,7 @@
         "demo": "https://npm.im/discord.tsx"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "QuickMongo",
         "image": "https://i.imgur.com/Mm3WKLa.png",
         "description": "Quick mongodb wrapper for beginners.",
@@ -27,7 +36,7 @@
         "demo": "https://quickmongo.js.org"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Canvacord",
         "image": "https://i.imgur.com/tYiz4eH.png",
         "description": "Powerful image manipulation library for beginners.",
@@ -36,7 +45,7 @@
         "demo": "https://canvacord.js.org"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "DartJS",
         "image": "https://i.imgur.com/XOELYB9.png",
         "description": "Discord.js v12 voice polyfill",
