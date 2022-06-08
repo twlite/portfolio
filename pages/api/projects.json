@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Illustrator.js",
-        "image": "https://illustratorjs.netlify.app/img/logo.88cad7df.png",
+        "image": "https://i.imgur.com/JBX2UVH.png",
         "description": "JavaScript image processing library",
         "tags": ["node", "photo", "image", "manipulation", "javascript", "api"],
         "source_code": "https://github.com/CesiumLabs/illustrator.js",
