@@ -4,7 +4,14 @@
         "name": "Illustrator.js",
         "image": "https://i.imgur.com/JBX2UVH.png",
         "description": "JavaScript image processing library",
-        "tags": ["node", "photo", "image", "manipulation", "javascript", "api"],
+        "tags": [
+            "node",
+            "photo",
+            "image",
+            "manipulation",
+            "javascript",
+            "api"
+        ],
         "source_code": "https://github.com/CesiumLabs/illustrator.js",
         "demo": "https://illustratorjs.netlify.app"
     },
@@ -13,17 +20,28 @@
         "name": "YouTube Search",
         "image": "https://i.imgur.com/FwUCnbF.png",
         "description": "Simple library for node and deno to make youtube search.",
-        "tags": ["node", "youtube", "search", "deno", "api"],
-        "source_code": "https://github.com/DevAndromeda/youtube-sr",
-        "demo": "https://devandromeda.github.io/youtube-sr"
+        "tags": [
+            "node",
+            "youtube",
+            "search",
+            "deno",
+            "api"
+        ],
+        "source_code": "https://github.com/archaeopteryx1/youtube-sr",
+        "demo": "https://archaeopteryx1.github.io/youtube-sr"
     },
     {
         "id": 3,
         "name": "Discord.tsx",
         "image": "https://i.imgur.com/7B8t8CR.png",
         "description": "Build discord.js components with JSX",
-        "tags": ["react", "node", "discord.js", "jsx"],
-        "source_code": "https://github.com/DevAndromeda/discord.tsx",
+        "tags": [
+            "react",
+            "node",
+            "discord.js",
+            "jsx"
+        ],
+        "source_code": "https://github.com/archaeopteryx1/discord.tsx",
         "demo": "https://npm.im/discord.tsx"
     },
     {
@@ -31,7 +49,14 @@
         "name": "QuickMongo",
         "image": "https://i.imgur.com/Mm3WKLa.png",
         "description": "Quick mongodb wrapper for beginners.",
-        "tags": ["mongodb", "node", "mongoose", "wrapper", "api", "key-value"],
+        "tags": [
+            "mongodb",
+            "node",
+            "mongoose",
+            "wrapper",
+            "api",
+            "key-value"
+        ],
         "source_code": "https://github.com/CesiumLabs/quickmongo",
         "demo": "https://quickmongo.js.org"
     },
@@ -40,7 +65,12 @@
         "name": "Canvacord",
         "image": "https://i.imgur.com/tYiz4eH.png",
         "description": "Powerful image manipulation library for beginners.",
-        "tags": ["canvas", "image", "manipulation", "node"],
+        "tags": [
+            "canvas",
+            "image",
+            "manipulation",
+            "node"
+        ],
         "source_code": "https://github.com/CesiumLabs/canavcord",
         "demo": "https://canvacord.js.org"
     },
@@ -49,7 +79,12 @@
         "name": "DartJS",
         "image": "https://i.imgur.com/XOELYB9.png",
         "description": "Discord.js v12 voice polyfill",
-        "tags": ["discord.js", "voice", "api", "polyfill"],
+        "tags": [
+            "discord.js",
+            "voice",
+            "api",
+            "polyfill"
+        ],
         "source_code": "https://github.com/discord-player/dartjs",
         "demo": "https://npm.im/dartjs"
     }
