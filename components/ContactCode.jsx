@@ -13,8 +13,8 @@ const contactItems = [
     },
     {
         social: "github",
-        link: "DevAndromeda",
-        href: "https://github.com/DevAndromeda"
+        link: "Archaeopteryx1",
+        href: "https://github.com/Archaeopteryx1"
     },
     {
         social: "linkedin",
@@ -23,8 +23,8 @@ const contactItems = [
     },
     {
         social: "twitter",
-        link: "DevAndromeda7",
-        href: "https://www.twitter.com/DevAndromeda7"
+        link: "Archaeopteryx17",
+        href: "https://www.twitter.com/Archaeopteryx17"
     },
     {
         social: "discord",

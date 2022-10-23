@@ -6,7 +6,7 @@ import styles from "../styles/ArticleCard.module.css";
 const ArticleCard = ({ article }) => {
     return (
         <a href={`https://blogs.dhunganakunjan.com.np/${article.slug}`} target="_blank" rel="noopener noreferrer" className={styles.container}>
-            <Image src={article.coverImage} alt={article.title} width={300} height={150} />
+            <Image src={article.coverImage} alt={article.title} width={200} height={100} layout="responsive" />
             <div className={styles.content}>
                 <h3 className={styles.title}>{article.title}</h3>
                 <p>{article.brief}</p>
