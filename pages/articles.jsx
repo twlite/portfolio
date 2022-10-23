@@ -24,7 +24,7 @@ export async function getStaticProps() {
         body: JSON.stringify({
             query: `
                 query GetUserArticles($page: Int!) {
-                    user(username: "archaeopteryx1") {
+                    user(username: "Archaeopteryx") {
                         publication {
                             posts(page: $page) {
                                 title
