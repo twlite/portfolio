@@ -5,7 +5,7 @@ const CustomHead = ({ title }) => {
         <Head>
             <title>{title}</title>
             <meta name="description" content="Hello, myself Andromeda." />
-            <meta name="keywords" content="Andromeda,Archaeopteryx1" />
+            <meta name="keywords" content="Andromeda,archaeopteryx1" />
             <meta property="og:title" content="Andromeda" />
             <meta property="og:description" content="Hello, myself Andromeda." />
             <meta property="og:image" content="https://i.imgur.com/OJeZfNJ.png" />

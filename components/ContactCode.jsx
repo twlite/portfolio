@@ -28,7 +28,7 @@ const contactItems = [
     },
     {
         social: "discord",
-        link: "Andromeda#1000",
+        link: "Archaeopteryx#9744",
         href: "https://discord.com/users/916316955772862475"
     }
 ];
