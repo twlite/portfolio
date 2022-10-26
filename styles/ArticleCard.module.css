@@ -7,7 +7,7 @@
     text-decoration: none;
     color: white;
     transition: all 0.3s;
-    max-width: 30%;
+    max-width: auto;
 }
 
 .container:hover {
